@@ -21,5 +21,6 @@ Check out [LIVE DEMO](https://twitter-clone-akshay.herokuapp.com/) here!!
 * Users can post tweets.
 * Users can edit tweets.
 * Users can delete tweets.
-* Users can send a like to a tweet.
+* Users can send a like to a tweets.
+
 ```
